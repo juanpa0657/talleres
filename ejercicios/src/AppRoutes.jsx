@@ -7,7 +7,9 @@ export const AppRoutes = () => {
     <Routes>
         <Route path='ejeruno' element={<EjercicioUno/>}/>
 
+  
 
+  
     </Routes>
     </>
   )
