@@ -8,8 +8,6 @@ export const AppRoutes = () => {
         <Route path='ejeruno' element={<EjercicioUno/>}/>
 
   
-
-  
     </Routes>
     </>
   )
