@@ -11,10 +11,17 @@ export const Navbar = () => {
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" href="/">Home</a>
-        <a class="nav-link" href="/ejeruno">ejercicioUno</a>
-        <a class="nav-link" href="#">Pricing</a>
-        <a class="nav-link disabled">Disabled</a>
+        <a class="nav-link active" aria-current="page" href="/">Inicio</a>
+        <a class="nav-link" href="/ejeruno">ejercicio1</a>
+        <a class="nav-link" href="/ejerdos">Ejercicio2</a>
+       <a class="nav-link" href="/ejertres">Ejercicio3</a>
+       <a class="nav-link" href="/ejercuatro">Ejercicio4</a>
+       <a class="nav-link" href="/ejerquinto">Ejercicio5</a>
+       <a class="nav-link" href="/ejersexto">Ejercicio6</a>
+       <a class="nav-link" href="/ejerseptimo">Ejercicio7</a>
+       <a class="nav-link" href="/ejerOcho">Ejercicio8</a>
+       <a class="nav-link" href="/ejerNoveno">Ejercicio9</a>
+       <a class="nav-link" href="/ejerDecimo">Ejercicio10</a>
       </div>
     </div>
   </div>

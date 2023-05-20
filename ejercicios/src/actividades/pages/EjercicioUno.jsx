@@ -14,7 +14,7 @@ export const EjercicioUno = () => {
                  
                   <button href="#"  onClick={() => {
                     var edad= parseInt(document.getElementById('numero').value)
-                    console.log(edad)
+                    // console.log(edad)
                     if (edad>=18  & edad <= 100)
                     {
                         alert('puedes conducir')
